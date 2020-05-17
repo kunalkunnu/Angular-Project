@@ -1,0 +1,185 @@
+                                         @media screen and (min-width: 500px) {
+                                             body {
+                                                 width: 420px;
+                                             }
+                                         }
+                                         
+                                         @media screen and (min-width: 800px) {
+                                             body {
+                                                 width: 720px;
+                                             }
+                                         }
+                                         
+                                         #container {
+                                             width: 100%;
+                                             display: flex;
+                                             padding-left: 100px;
+                                             border-top-style: ridge;
+                                             height: 786px;
+                                         }
+                                         
+                                         #leftThing {
+                                             width: 33.33%;
+                                             background-color: #cccccc29;
+                                             border-right: ridge;
+                                         }
+                                         
+                                         #content {
+                                             width: 33.33%;
+                                             background-color: #cccccc29;
+                                             border-right: ridge;
+                                         }
+                                         
+                                         #rightThing {
+                                             width: 33.33%;
+                                             background-color: #cccccc29;
+                                         }
+                                         
+                                         #small-container {
+                                             height: 100%;
+                                             width: 100%;
+                                             display: flex;
+                                             padding-left: 100px;
+                                         }
+                                         
+                                         #left {
+                                             width: 33.33%;
+                                             background-color: rgb(255, 255, 251);
+                                             height: 100;
+                                             font-size: 22px;
+                                             font-style: normal;
+                                             padding: 11px 0px 0px 16px;
+                                             border-right: ridge;
+                                         }
+                                         
+                                         #middle {
+                                             width: 33.33%;
+                                             background-color: rgb(255, 255, 251);
+                                             height: 100;
+                                             font-size: 22px;
+                                             font-style: normal;
+                                             padding: 11px 0px 0px 16px;
+                                             border-right: ridge;
+                                         }
+                                         
+                                         #right {
+                                             width: 33.33%;
+                                             background-color: rgb(255, 255, 251);
+                                             height: 100;
+                                             font-size: 22px;
+                                             font-style: normal;
+                                             padding: 11px 0px 0px 16px;
+                                             border-right: ridge;
+                                         }
+                                         
+                                         #myInput {
+                                             background-image: url('/css/searchicon.png');
+                                             background-position: 10px 12px;
+                                             background-repeat: no-repeat;
+                                             width: 100%;
+                                             font-size: 16px;
+                                             padding: 12px 20px 12px 40px;
+                                             border: 1px solid #ddd;
+                                             margin-bottom: 12px;
+                                         }
+                                         
+                                         .box1 {
+                                             width: 100%;
+                                             background-color: #FFFFFF;
+                                             height: 100%;
+                                             font-size: 22px;
+                                             font-style: normal;
+                                             padding: 100px 0px 0px 16px;
+                                         }
+                                         
+                                         .wrapper {
+                                             padding-top: 26px;
+                                             padding-left: 26px;
+                                             padding-right: 80px;
+                                             padding-bottom: 26px;
+                                             width: 111%;
+                                         }
+                                         
+                                         .box2 {
+                                             width: 100%;
+                                             background-color: #FFFFFF;
+                                             height: 100%;
+                                             font-size: 22px;
+                                             font-style: normal;
+                                             padding: 100px 0px 0px 16px;
+                                             margin-top: 18px;
+                                         }
+                                         
+                                         .box3 {
+                                             width: 100%;
+                                             background-color: #FFFFFF;
+                                             height: 100%;
+                                             font-size: 22px;
+                                             font-style: normal;
+                                             padding: 100px 0px 0px 16px;
+                                             margin-top: 18px;
+                                         }
+                                         
+                                         .box4 {
+                                             width: 100%;
+                                             background-color: #FFFFFF;
+                                             height: 100%;
+                                             font-size: 22px;
+                                             font-style: normal;
+                                             padding: 100px 0px 0px 16px;
+                                             margin-top: 18px;
+                                         }
+                                         
+                                         .wrapper-message {
+                                             width: 100%;
+                                         }
+                                         
+                                         .box5 {
+                                             width: 100%;
+                                             background-color: #FFFFFF;
+                                             height: 100;
+                                             font-size: 22px;
+                                             font-style: normal;
+                                             border-bottom: inset;
+                                         }
+                                         
+                                         .box6 {
+                                             width: 100%;
+                                             background-color: #FFFFFF;
+                                             height: 100;
+                                             font-size: 22px;
+                                             font-style: normal;
+                                             border-bottom: inset;
+                                         }
+                                         
+                                         .box7 {
+                                             width: 100%;
+                                             background-color: #FFFFFF;
+                                             height: 100;
+                                             font-size: 22px;
+                                             font-style: normal;
+                                             border-bottom: inset;
+                                         }
+                                         
+                                         .box8 {
+                                             width: 100%;
+                                             background-color: #FFFFFF;
+                                             height: 100;
+                                             font-size: 22px;
+                                             font-style: normal;
+                                             border-bottom: inset;
+                                         }
+                                         
+                                         .social {
+                                             position: relative;
+                                             float: right;
+                                             padding-right: 22px;
+                                         }
+                                         
+                                         .flaticon-facebook,
+                                         .flaticon-twitter,
+                                         .flaticon-linkedin {
+                                             margin: -8px;
+                                         }
+                                         /* ddddddddddddddddddddddd
+                                          */

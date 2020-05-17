@@ -1,0 +1,97 @@
+.sidebar {
+    height: 100%;
+    width: initial;
+    /* border-style: groove; */
+    border-right: ridge;
+    padding-top: 10px;
+}
+
+.sidebar a {
+    display: block;
+    color: black;
+    padding: 16px;
+    text-decoration: none;
+}
+
+div.content {
+    margin-left: 200px;
+    padding: 1px 16px;
+    height: 1000px;
+}
+
+@media screen and (max-width: 700px) {
+    .sidebar {
+        width: 100%;
+        height: auto;
+        position: relative;
+    }
+    .sidebar a {
+        float: left;
+    }
+    div.content {
+        margin-left: 0;
+    }
+}
+
+@media screen and (max-width: 400px) {
+    .sidebar a {
+        text-align: center;
+        float: none;
+    }
+}
+
+.w3-sidebar {
+    height: 100%;
+    width: 100px;
+    position: fixed!important;
+    z-index: 1;
+    overflow: auto;
+}
+
+
+/* .font-style {
+    text-align: center;
+    font-style: normal;
+    font-family: Arial, Helvetica, sans-serif;
+} */
+
+.w3-sidebar[_ngcontent-nwm-c19] {
+    height: 100%;
+    width: 6%;
+    /* background-color: #fff; */
+    position: fixed!important;
+    z-index: 1;
+    overflow: auto;
+    font-family: initial;
+}
+
+.outer-box {
+    position: relative;
+    display: table;
+    width: 100%;
+    border-spacing: 10px;
+    padding-bottom: 7px;
+}
+
+
+/* *,
+ ::after,
+ ::before {
+    box-sizing: border-box;
+    color: black;
+} */
+
+
+/* div {
+    -webkit-box-shadow: 1px 0 2px black;
+    -moz-box-shadow: 1px 0 2px black;
+    box-shadow: 1px 0 2px black;
+} */
+
+.font-style {
+    padding: 0px 0px 0px 4px;
+    font-family: serif;
+    font-size: unset;
+    font-style: inherit;
+    color: black;
+}
