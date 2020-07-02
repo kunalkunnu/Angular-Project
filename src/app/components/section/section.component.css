@@ -14,7 +14,7 @@
                                              width: 100%;
                                              display: flex;
                                              padding-left: 100px;
-                                             border-top-style: ridge;
+                                             /* border-top-style: ridge; */
                                              height: 786px;
                                          }
                                          
@@ -50,6 +50,7 @@
                                              font-style: normal;
                                              padding: 11px 0px 0px 16px;
                                              border-right: ridge;
+                                             border-bottom: ridge;
                                          }
                                          
                                          #middle {
@@ -60,6 +61,7 @@
                                              font-style: normal;
                                              padding: 11px 0px 0px 16px;
                                              border-right: ridge;
+                                             border-bottom: ridge;
                                          }
                                          
                                          #right {
@@ -70,6 +72,7 @@
                                              font-style: normal;
                                              padding: 11px 0px 0px 16px;
                                              border-right: ridge;
+                                             border-bottom: ridge;
                                          }
                                          
                                          #myInput {
@@ -81,6 +84,7 @@
                                              padding: 12px 20px 12px 40px;
                                              border: 1px solid #ddd;
                                              margin-bottom: 12px;
+                                             border-bottom: ridge;
                                          }
                                          
                                          .box1 {
